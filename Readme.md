@@ -1,6 +1,6 @@
 ﻿## react-native-slider-circular-drag
 
-This is a continuation of the work from the user raymondchooi, who made the initial component;  
+This is a continuation of the work from the user marcelobarbosaO, who made the initial component;  
 https://github.com/marcelobarbosaO/react-native-slider-circular-drag
 
 ### Installation
