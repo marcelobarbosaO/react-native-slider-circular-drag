@@ -1,0 +1,30 @@
+{
+  "name": "react-native-slider-circular-drag",
+  "version": "1.0.0",
+  "author": {
+    "name": "Marcelo Barbosa de Oliveira"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "react-native-svg": "6.5.1",
+    "react-native-view-overflow": "0.0.3"
+  },
+  "deprecated": false,
+  "description": "React Native Circular Slider Component",
+  "devDependencies": {
+    "@types/prop-types": "^15.5.3",
+    "@types/react": "^16.4.6",
+    "@types/react-native": "^0.55.27"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "Slider",
+    "Component",
+    "Circular",
+    "Circle"
+  ],
+  "license": "ISC",
+  "main": "dist/CircleSlider.js",
+  "source": "src/CircleSlider.tsx"
+}
